@@ -37,4 +37,4 @@ Als je een kleine opmerking hebt of een spelfout vond, kan je altijd een [issue]
 Voor meer uitleg ga naar de [Meewerken](Meewerken) pagina.
 
 ## Ter info
-Bouwkunde is stom! 
+Bouwkunde is heel stom! 
